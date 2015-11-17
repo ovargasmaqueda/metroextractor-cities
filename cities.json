@@ -4751,6 +4751,14 @@
                         "right": "-60.224"
                     }
                 },
+                "rancagua_chile": {
+                    "bbox": {
+                        "top": "-34.109",
+                        "left": "-70.805",
+                        "bottom": "-34.247",
+                        "right": "-70.628"
+                    }
+                },
                 "valparaiso_chile": {
                     "bbox": {
                         "top": "-32.894",
